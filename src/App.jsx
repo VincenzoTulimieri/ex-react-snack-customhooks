@@ -1,7 +1,7 @@
 // snack 1
-import useSwitch from "./useSwitch";
+import useSwitch from "./hooks/useSwitch";
 // snack 2
-import useDate from "./useDate";
+import useDate from "./hooks/useDate";
 
 function App() {
   // snack 1
